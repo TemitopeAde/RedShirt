@@ -1,0 +1,210 @@
+@media only screen and (max-width:1507px)  {
+    #name {
+        width: 45%;
+    }
+    textarea {
+        width: 95%
+    }
+    
+}
+
+
+
+
+
+@media only screen and (max-width:1440px) {
+    #name {
+        width: 45%;
+    }
+    textarea {
+        width: 95%
+    }
+    
+}
+
+
+@media only screen and (max-width:1440px) {
+    .wrap {
+        padding: 40px 60px;
+    }
+    #section-three .container .content img {
+        width: 250px;
+    }
+    #section-two {
+        padding: 0px 50px;
+    }
+}
+
+
+@media only screen and (max-width:768px) {
+    header {
+        display: block;
+        text-align: center
+    }
+    .navlist ul {
+        display: block;
+        line-height: 30px;
+    }
+    .logo {
+        padding-bottom: 5px;
+    }
+    .navlist ul li a {
+        margin-right: 0px;
+        padding: .5rem .1rem;
+        line-height: 3.5rem;
+    }
+    
+    .navlist {
+        display: none;
+    }
+
+    .logo a {
+        font-size: 2.6rem;
+    }
+
+    .toggle {
+        display: block;
+    }
+    
+    .bars {
+        display: block; 
+    }
+    
+    #section-two .container-two p {
+        line-height: 24px;
+    }
+    #section-three .container {
+        display: flex;
+        flex-direction: column;
+    }
+    #section-three .container .content {
+        padding: 0 160px;
+        margin-bottom: 60px;
+    }
+    #name, #phone {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: .8rem;
+    }
+    textarea {
+        width: 100%
+    }
+    #submit {
+        position: absolute;
+        padding: 5px 20px;
+        border-radius: 10px;
+        right: 60px;
+    }
+    #section-five .container-two {
+        margin-right: 40px;
+        flex-basis: 20%;
+    }
+    #section-five {
+        font-size: .8rem;
+        flex-direction: column;
+    }
+    #section-four p {
+        width: 100%;
+    }
+    #sub-email {
+        padding: .5rem;
+        margin-top: 10px;
+        background-color: rgb(245, 238, 238);
+        width: 70%;
+        height: 24px;
+        font-size: .7rem;
+    }
+    #sub{
+        position: relative;
+        padding: 2px 12px;
+        display: block;
+        height: 25px;
+        font-size: .6rem;
+    }
+    #section-five .container-two {
+        margin-right: 0px;
+    }
+    #section-five .container-one,
+    #section-five .container-two,
+    #section-five .container-three {
+        margin-right: 9px;
+    }
+    
+}
+
+
+@media only screen and (max-width:632px) {
+    #section-two {
+        display: flex;
+        flex-direction: column;
+        padding: 50px 40px;
+    }
+    #section-five {
+        font-size: .6rem;
+    }
+    #section-three .container .content img {
+        width: 200px;
+    }
+    #section-three h1 {
+        font-size: 2rem;
+    }
+    #section-three .container .content {
+        padding: 0 90px;
+    }
+    #section-two .container-one {
+        margin-right: 0px;    
+}
+label {
+    font-size: 1.1rem;
+}
+#submit {
+    font-size: .7rem;
+    padding: 5px 14px
+}
+#section-three .container .content p {
+    font-size: .9rem;
+}
+#section-three .container .content h3 {
+    font-size: .96rem;
+}
+}
+
+
+
+@media only screen and (max-width:425px) {
+    .container .content img {
+        width: 150px;
+    }
+    .wrap {
+        padding: 50px 15px
+    }
+    #section-one .container h2 {
+        margin-bottom: 10px;
+        font-size: 1.3rem;
+    }
+    #section-one .container p {
+        margin-bottom: 48px;
+        font-size: 1.1rem;
+    }
+    #section-one .container a {
+        padding: 10px 20px;
+        font-size: .8rem;
+        
+    }
+    #section-three .container .content img {
+        width: 120px;
+    }
+    
+
+}
+
+
+@media only screen and (max-width:375px) {
+    label {
+        font-size: .6rem;
+    }
+    .wrap {
+        padding: 50px 10px;
+    }
+}
